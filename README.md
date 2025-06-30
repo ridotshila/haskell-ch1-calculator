@@ -14,6 +14,11 @@ This is a beginner-friendly Haskell program that implements a simple command-lin
 - Basic IO with `getLine` and `putStrLn`
 - Pattern matching using `case`
 
+  ## 🖼️ Example Output
+
+![Calculator Output](marathon.png)
+
+
 ## 🛠️ How to Run
 ```bash
 ghc SimpleCalculator.hs -o calculator
